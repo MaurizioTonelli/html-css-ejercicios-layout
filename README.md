@@ -1,6 +1,6 @@
 # Ejercicios de layout para HTML/CSS
 
-Como primer paso, pasa a la rama 'starter' para que intentes el ejercicio desde cero.
+Como primer paso, pasa a la rama 'inicio' para que intentes el ejercicio desde cero.
 
 Para ver el artículo completo, visita: https://blog.astrodev.mx/mauztonelli00/3-ejercicios-de-layout-para-html-css-dqirpwncs3sh
 
