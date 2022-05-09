@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+    height: 100px;
+}
+
+.nav-titulo{
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+.doble-columna{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 100px;
+}
+
+.doble-columna > p{
+   margin: 15px; 
+   text-align: justify;
+}
